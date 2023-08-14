@@ -1,0 +1,9 @@
+{
+  "name": "example-html-canvas",
+  "private": true,
+  "author": "mryhryki",
+  "license": "MIT",
+  "scripts": {
+    "dev": ""
+  }
+}
